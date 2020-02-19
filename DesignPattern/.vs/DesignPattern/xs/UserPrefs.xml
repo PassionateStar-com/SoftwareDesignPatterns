@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E6EAE8E1-D330-4C18-B6F1-2F26ABAF0178}|Default">
+  <MonoDevelop.Ide.ItemProperties.BuilderPattern FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DesignPattern FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuilderPattern/Program.cs">
+    <Files>
+      <File FileName="DesignPattern/Program.cs" Line="11" Column="6" />
+      <File FileName="BuilderPattern/Program.cs" Line="12" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DesignPattern" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
