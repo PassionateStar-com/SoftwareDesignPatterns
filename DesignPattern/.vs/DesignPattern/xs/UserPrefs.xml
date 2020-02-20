@@ -1,16 +1,19 @@
 ﻿<Properties StartupConfiguration="{C566AA81-417A-4D3D-BA2B-6A25B087DB89}|Default">
   <MonoDevelop.Ide.ItemProperties.BuilderPattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BuilderPattern/WithBuilder.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuilderPattern/FluentBuilderGenerics.cs">
     <Files>
       <File FileName="BuilderPattern/Program.cs" Line="15" Column="36" />
       <File FileName="BuilderPattern/WithoutBuilder.cs" Line="21" Column="29" />
       <File FileName="BuilderPattern/WithBuilder.cs" Line="75" Column="95" />
+      <File FileName="BuilderPattern/FluentBuilderGenerics.cs" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPattern" expanded="True">
-            <Node name="BuilderPattern" expanded="True" />
+            <Node name="BuilderPattern" expanded="True">
+              <Node name="FluentBuilderGenerics.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

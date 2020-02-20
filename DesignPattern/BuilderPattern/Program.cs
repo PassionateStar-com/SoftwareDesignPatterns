@@ -8,11 +8,13 @@ namespace BuilderPattern
 
         public static void Main(string[] args)
         {
-            WithoutBuilder obj = new WithoutBuilder();
-            obj.GenerateHtml();
+            //WithoutBuilder obj = new WithoutBuilder();
+            //obj.GenerateHtml();
 
-            WithBuilder builder = new WithBuilder();
-            builder.GenerateHtml();
+            //WithBuilder builder = new WithBuilder();
+            //builder.GenerateHtml();
+
+            FluentBuilderGenerics fluentBuilder = new FluentBuilderGenerics();
         }
     }
 }
