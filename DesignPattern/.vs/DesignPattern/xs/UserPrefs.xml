@@ -1,15 +1,17 @@
-﻿<Properties StartupConfiguration="{E6EAE8E1-D330-4C18-B6F1-2F26ABAF0178}|Default">
-  <MonoDevelop.Ide.ItemProperties.BuilderPattern FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.DesignPattern FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BuilderPattern/Program.cs">
+﻿<Properties StartupConfiguration="{C566AA81-417A-4D3D-BA2B-6A25B087DB89}|Default">
+  <MonoDevelop.Ide.ItemProperties.BuilderPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuilderPattern/WithBuilder.cs">
     <Files>
-      <File FileName="DesignPattern/Program.cs" Line="11" Column="6" />
-      <File FileName="BuilderPattern/Program.cs" Line="12" Column="2" />
+      <File FileName="BuilderPattern/Program.cs" Line="15" Column="36" />
+      <File FileName="BuilderPattern/WithoutBuilder.cs" Line="21" Column="29" />
+      <File FileName="BuilderPattern/WithBuilder.cs" Line="75" Column="95" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DesignPattern" expanded="True" />
+          <Node name="DesignPattern" expanded="True">
+            <Node name="BuilderPattern" expanded="True" />
+          </Node>
         </State>
       </Pad>
     </Pads>

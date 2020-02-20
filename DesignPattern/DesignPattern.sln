@@ -1,8 +1,6 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern", "DesignPattern\DesignPattern.csproj", "{E6EAE8E1-D330-4C18-B6F1-2F26ABAF0178}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{C566AA81-417A-4D3D-BA2B-6A25B087DB89}"
 EndProject
 Global
@@ -11,10 +9,6 @@ Global
 		Release|anycpu = Release|anycpu
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E6EAE8E1-D330-4C18-B6F1-2F26ABAF0178}.Debug|anycpu.ActiveCfg = Debug|anycpu
-		{E6EAE8E1-D330-4C18-B6F1-2F26ABAF0178}.Debug|anycpu.Build.0 = Debug|anycpu
-		{E6EAE8E1-D330-4C18-B6F1-2F26ABAF0178}.Release|anycpu.ActiveCfg = Release|anycpu
-		{E6EAE8E1-D330-4C18-B6F1-2F26ABAF0178}.Release|anycpu.Build.0 = Release|anycpu
 		{C566AA81-417A-4D3D-BA2B-6A25B087DB89}.Debug|anycpu.ActiveCfg = Debug|anycpu
 		{C566AA81-417A-4D3D-BA2B-6A25B087DB89}.Debug|anycpu.Build.0 = Debug|anycpu
 		{C566AA81-417A-4D3D-BA2B-6A25B087DB89}.Release|anycpu.ActiveCfg = Release|anycpu
