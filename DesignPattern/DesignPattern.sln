@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{C566AA81-417A-4D3D-BA2B-6A25B087DB89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonostatePattern", "MonostatePattern\MonostatePattern.csproj", "{DA8771B0-96FD-4FDA-B783-6DADE5FF10ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -13,5 +15,9 @@ Global
 		{C566AA81-417A-4D3D-BA2B-6A25B087DB89}.Debug|anycpu.Build.0 = Debug|anycpu
 		{C566AA81-417A-4D3D-BA2B-6A25B087DB89}.Release|anycpu.ActiveCfg = Release|anycpu
 		{C566AA81-417A-4D3D-BA2B-6A25B087DB89}.Release|anycpu.Build.0 = Release|anycpu
+		{DA8771B0-96FD-4FDA-B783-6DADE5FF10ED}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{DA8771B0-96FD-4FDA-B783-6DADE5FF10ED}.Debug|anycpu.Build.0 = Debug|anycpu
+		{DA8771B0-96FD-4FDA-B783-6DADE5FF10ED}.Release|anycpu.ActiveCfg = Release|anycpu
+		{DA8771B0-96FD-4FDA-B783-6DADE5FF10ED}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal

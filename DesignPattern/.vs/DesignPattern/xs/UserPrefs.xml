@@ -1,18 +1,16 @@
-﻿<Properties StartupConfiguration="{C566AA81-417A-4D3D-BA2B-6A25B087DB89}|Default">
+﻿<Properties StartupConfiguration="{DA8771B0-96FD-4FDA-B783-6DADE5FF10ED}|Default">
   <MonoDevelop.Ide.ItemProperties.BuilderPattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BuilderPattern/FluentBuilderGenerics.cs">
+  <MonoDevelop.Ide.ItemProperties.MonostatePattern FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonostatePattern/Program.cs">
     <Files>
-      <File FileName="BuilderPattern/Program.cs" Line="15" Column="36" />
-      <File FileName="BuilderPattern/WithoutBuilder.cs" Line="21" Column="29" />
-      <File FileName="BuilderPattern/WithBuilder.cs" Line="75" Column="95" />
-      <File FileName="BuilderPattern/FluentBuilderGenerics.cs" Line="8" Column="1" />
+      <File FileName="MonostatePattern/Program.cs" Line="11" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPattern" expanded="True">
-            <Node name="BuilderPattern" expanded="True">
-              <Node name="FluentBuilderGenerics.cs" selected="True" />
+            <Node name="MonostatePattern" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
