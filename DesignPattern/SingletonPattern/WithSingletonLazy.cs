@@ -16,6 +16,7 @@ namespace WithSingletonPatternLazy
     {
         private Dictionary<string, int> cityDict;
 
+
         private SingletonDatabase()
         {
             Console.WriteLine("Initializing the database");
@@ -36,6 +37,8 @@ namespace WithSingletonPatternLazy
             return cityDict[cityName];
         }
 
+        //Here the lazy keyword will only initialize the static fields when the first object is created.
+        //Hence it's an optimization. If we don't need the instance of database then no constructor is called atall!
         private static Lazy<SingletonDatabase> instance = new Lazy<SingletonDatabase>(()=> new SingletonDatabase());
         public static SingletonDatabase Instance => instance.Value;
     }

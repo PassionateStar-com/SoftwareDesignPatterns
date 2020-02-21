@@ -1,0 +1,4 @@
+/Users/aakashchotrani/Documents/SoftwareDesignPatterns/DesignPattern/BuilderPattern/bin/Debug/BuilderPattern.exe
+/Users/aakashchotrani/Documents/SoftwareDesignPatterns/DesignPattern/BuilderPattern/bin/Debug/BuilderPattern.pdb
+/Users/aakashchotrani/Documents/SoftwareDesignPatterns/DesignPattern/BuilderPattern/obj/anycpu/Debug/BuilderPattern.exe
+/Users/aakashchotrani/Documents/SoftwareDesignPatterns/DesignPattern/BuilderPattern/obj/anycpu/Debug/BuilderPattern.pdb

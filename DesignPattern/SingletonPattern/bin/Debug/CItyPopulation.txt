@@ -1,0 +1,10 @@
+﻿Seattle
+50000
+Sanfrancisco
+80000
+Losangeles
+120000
+Atlanta
+40000
+Longbeach
+20000

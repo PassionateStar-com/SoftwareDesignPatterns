@@ -15,10 +15,12 @@ namespace WithSingletonPattern
     public class SingletonDatabase : IDatabase
     {
         private Dictionary<string, int> cityDict;
-
+        private static int instanceCount;
+        public static int InstanceCount => instanceCount;
         private SingletonDatabase()
         {
             Console.WriteLine("Initializing the database");
+            instanceCount += 1;
 
             //Open a file and read all the data
             cityDict = File.ReadAllLines("CityPopulation.txt").

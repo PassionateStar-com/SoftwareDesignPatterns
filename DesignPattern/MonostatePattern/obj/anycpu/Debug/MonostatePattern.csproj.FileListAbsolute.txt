@@ -1,0 +1,5 @@
+/Users/aakashchotrani/Documents/SoftwareDesignPatterns/DesignPattern/MonostatePattern/bin/Debug/MonostatePattern.exe
+/Users/aakashchotrani/Documents/SoftwareDesignPatterns/DesignPattern/MonostatePattern/bin/Debug/MonostatePattern.pdb
+/Users/aakashchotrani/Documents/SoftwareDesignPatterns/DesignPattern/MonostatePattern/obj/anycpu/Debug/MonostatePattern.csprojAssemblyReference.cache
+/Users/aakashchotrani/Documents/SoftwareDesignPatterns/DesignPattern/MonostatePattern/obj/anycpu/Debug/MonostatePattern.exe
+/Users/aakashchotrani/Documents/SoftwareDesignPatterns/DesignPattern/MonostatePattern/obj/anycpu/Debug/MonostatePattern.pdb
