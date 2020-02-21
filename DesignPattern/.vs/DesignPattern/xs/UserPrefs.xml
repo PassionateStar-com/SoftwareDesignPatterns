@@ -1,16 +1,20 @@
-﻿<Properties StartupConfiguration="{DA8771B0-96FD-4FDA-B783-6DADE5FF10ED}|Default">
+﻿<Properties StartupConfiguration="{DE3D7A0D-DC35-4D01-8EAD-33F1BCAE7305}|Default">
+  <MonoDevelop.Ide.ItemProperties.SingletonPattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BuilderPattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.MonostatePattern FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MonostatePattern/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.MonostatePattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SingletonPattern/WithSingleton.cs">
     <Files>
-      <File FileName="MonostatePattern/Program.cs" Line="11" Column="22" />
+      <File FileName="SingletonPattern/Program.cs" Line="11" Column="13" />
+      <File FileName="SingletonPattern/WithoutSingleton.cs" Line="8" Column="2" />
+      <File FileName="SingletonPattern/WithSingleton.cs" Line="7" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPattern" expanded="True">
-            <Node name="MonostatePattern" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="MonostatePattern" expanded="True" />
+            <Node name="SingletonPattern" expanded="True">
+              <Node name="WithSingleton.cs" selected="True" />
             </Node>
           </Node>
         </State>
