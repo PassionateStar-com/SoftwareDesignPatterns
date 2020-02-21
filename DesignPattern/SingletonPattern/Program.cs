@@ -1,6 +1,7 @@
 ﻿using System;
 using WithoutSingletonPattern;
 using WithSingletonPattern;
+using WithSingletonPatternLazy;
 
 namespace SingletonPattern
 {
@@ -9,7 +10,8 @@ namespace SingletonPattern
         public static void Main(string[] args)
         {
             //WithoutSingleton obj = new WithoutSingleton();
-            WithSingleton obj2 = new WithSingleton();
+            //WithSingleton obj2 = new WithSingleton();
+            WithSingletonLazy obj3 = new WithSingletonLazy();
         }
     }
 }

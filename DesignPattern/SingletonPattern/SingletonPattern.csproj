@@ -46,6 +46,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WithoutSingleton.cs" />
     <Compile Include="WithSingleton.cs" />
+    <Compile Include="WithSingletonLazy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="CItyPopulation.txt">
