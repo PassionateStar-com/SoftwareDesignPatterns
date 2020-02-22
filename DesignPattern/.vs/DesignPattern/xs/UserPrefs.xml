@@ -1,31 +1,21 @@
-﻿<Properties StartupConfiguration="{DE3D7A0D-DC35-4D01-8EAD-33F1BCAE7305}|Default">
+﻿<Properties StartupConfiguration="{7BD6DBEB-6AE2-4387-B3EB-1028B775A698}|Default">
   <MonoDevelop.Ide.ItemProperties.SingletonPattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BuilderPattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MonostatePattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SingletonPattern/IssueWithSingleton.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryPattern/WithFactory.cs">
     <Files>
-      <File FileName="SingletonPattern/Program.cs" Line="7" Column="2" />
-      <File FileName="SingletonPattern/WithoutSingleton.cs" Line="8" Column="2" />
-      <File FileName="SingletonPattern/WithSingleton.cs" Line="23" Column="32" />
-      <File FileName="SingletonPattern/WithSingletonLazy.cs" Line="23" Column="1" />
-      <File FileName="SingletonPattern/IssueWithSingleton.cs" Line="22" Column="10" />
+      <File FileName="FactoryPattern/Program.cs" Line="15" Column="1" />
+      <File FileName="FactoryPattern/WithoutFactory.cs" Line="56" Column="41" />
+      <File FileName="FactoryPattern/WithFactory.cs" Line="7" Column="26" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPattern" expanded="True">
-            <Node name="MonostatePattern" expanded="True" />
-            <Node name="SingletonPattern" expanded="True" selected="True">
-              <Node name="References" expanded="True">
-                <Node name="From Packages" expanded="True" />
-              </Node>
+            <Node name="FactoryPattern" expanded="True">
+              <Node name="WithFactory.cs" selected="True" />
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="DesignPattern" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
@@ -36,4 +26,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FactoryPattern PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
