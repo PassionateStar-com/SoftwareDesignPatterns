@@ -1,6 +1,7 @@
 ﻿using System;
 using FactoryPattern.WithoutFactoryPattern;
 using FactoryPattern.WithFactoryPattern;
+using FactoryPattern.FactoryAsynPattern;
 
 namespace FactoryPattern
 {
@@ -10,7 +11,9 @@ namespace FactoryPattern
         {
             WithoutFactory withoutFactory = new WithoutFactory();
             WithFactory withFactory = new WithFactory();
-            
+            FactoryAsync factoryAsync = new FactoryAsync();
+
+
         }
     }
 }
