@@ -2,6 +2,7 @@
 using FactoryPattern.WithoutFactoryPattern;
 using FactoryPattern.WithFactoryPattern;
 using FactoryPattern.FactoryAsynPattern;
+using FactoryPattern.WithFactoryClassPattern;
 
 namespace FactoryPattern
 {
@@ -9,9 +10,10 @@ namespace FactoryPattern
     {
         public static void Main(string[] args)
         {
-            WithoutFactory withoutFactory = new WithoutFactory();
-            WithFactory withFactory = new WithFactory();
-            FactoryAsync factoryAsync = new FactoryAsync();
+            //WithoutFactory withoutFactory = new WithoutFactory();
+            //WithFactory withFactory = new WithFactory();
+            //FactoryAsync factoryAsync = new FactoryAsync();
+            WithFactoryClass factoryClass = new WithFactoryClass();
 
 
         }

@@ -2,19 +2,18 @@
   <MonoDevelop.Ide.ItemProperties.SingletonPattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.BuilderPattern PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MonostatePattern PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryPattern/FactoryAsync.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryPattern/Program.cs">
     <Files>
-      <File FileName="FactoryPattern/Program.cs" Line="3" Column="40" />
-      <File FileName="FactoryPattern/WithoutFactory.cs" Line="56" Column="41" />
-      <File FileName="FactoryPattern/WithFactory.cs" Line="7" Column="33" />
-      <File FileName="FactoryPattern/FactoryAsync.cs" Line="4" Column="25" />
+      <File FileName="FactoryPattern/WithFactoryClass.cs" Line="52" Column="44" />
+      <File FileName="FactoryPattern/WithFactory.cs" Line="4" Column="1" />
+      <File FileName="FactoryPattern/Program.cs" Line="15" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DesignPattern" expanded="True">
             <Node name="FactoryPattern" expanded="True">
-              <Node name="FactoryAsync.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
