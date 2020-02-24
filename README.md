@@ -12,24 +12,24 @@ SOLID Design Principle
 
 
 Structural
-- []Adapter
-- []Bridge
-- []Composite
-- []Decorator
-- []Facade
-- []Flyweight
-- []Proxy
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Proxy
 
 Behavioral
--[]Chain of Responsibility
--[]Command
--[]Interpreter
--[]Iterator
--[]Mediator
--[]Memento
--[]Null Object
--[]Observer
--[]State
--[]Strategy
--[]Template Method
--[]Visitor
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Null Object
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Visitor
