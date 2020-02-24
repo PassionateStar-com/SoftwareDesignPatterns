@@ -7,9 +7,9 @@ What are deign patterns?
 - Design patterns are universally relevant. Some programming languages such as C# have internalized the design patterns.
 - Some design patterns are available as libraries.
 
-SOLID Design Principle
+## Types of Patterns
 
-** Creational Patterns **
+**Creational Patterns**
 - [x] Builder
 - [x] Factories
   - [x] Factory Method
@@ -17,8 +17,7 @@ SOLID Design Principle
 - [ ] Prototype
 - [x] Singleton
 
-
-** Structural **
+**Structural**
 - [ ] Adapter
 - [ ] Bridge
 - [ ] Composite
@@ -27,7 +26,7 @@ SOLID Design Principle
 - [ ] Flyweight
 - [ ] Proxy
 
-** Behavioral **
+**Behavioral**
 - [ ] Chain of Responsibility
 - [ ] Command
 - [ ] Interpreter
