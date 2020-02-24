@@ -12,13 +12,13 @@ SOLID Design Principle
 
 
 Structural
--[]Adapter
--[]Bridge
--[]Composite
--[]Decorator
--[]Facade
--[]Flyweight
--[]Proxy
+- []Adapter
+- []Bridge
+- []Composite
+- []Decorator
+- []Facade
+- []Flyweight
+- []Proxy
 
 Behavioral
 -[]Chain of Responsibility
