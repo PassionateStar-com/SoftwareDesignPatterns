@@ -1,5 +1,4 @@
-﻿//This is much better approach. Make the constructor private and provide public static api with better names and simpler parameters.
-//Makes the creation of objects much more simpler. Better naming of methods and parameters inside the functions.
+﻿//Seperate the concern of actually creating and instantiating the object by creating an inner factory class
 
 using System;
 namespace FactoryPattern
