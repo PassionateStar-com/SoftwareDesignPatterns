@@ -9,16 +9,16 @@ What are deign patterns?
 
 SOLID Design Principle
 
-Creational Patterns
+** Creational Patterns **
 - [x] Builder
 - [x] Factories
- - [x] Factory Method
- - [ ] Abstract Factory
+  - [x] Factory Method
+  - [ ] Abstract Factory
 - [ ] Prototype
 - [x] Singleton
 
 
-Structural
+** Structural **
 - [ ] Adapter
 - [ ] Bridge
 - [ ] Composite
@@ -27,7 +27,7 @@ Structural
 - [ ] Flyweight
 - [ ] Proxy
 
-Behavioral
+** Behavioral **
 - [ ] Chain of Responsibility
 - [ ] Command
 - [ ] Interpreter
